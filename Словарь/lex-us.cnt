@@ -1,0 +1,12 @@
+:Base lex-us.hlp
+1 View
+2 Toolbar=AFX_HIDW_TOOLBAR
+2 Search result=HIDD_VIEW1
+2 Relations=HIDD_VIEW2
+2 Translations=HIDD_VIEW3
+2 Status bar=AFX_HIDW_STATUS_BAR
+1 Menu
+2 File=menu_file
+2 Edit=menu_edit
+2 Entry=menu_entr
+2 Help=menu_help

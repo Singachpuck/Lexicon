@@ -1,0 +1,5 @@
+cc3,*: English Dictionary
+cth,*: Thesaurus
+cus,*: English Usage
+cgr,*: English Grammar
+cwb,*: English Wordbank
